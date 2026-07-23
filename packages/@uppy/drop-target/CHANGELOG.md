@@ -1,5 +1,14 @@
 # @uppy/drop-target
 
+## 5.0.0
+
+### Patch Changes
+
+- Updated dependencies [c3c7cef]
+- Updated dependencies [7ac2623]
+- Updated dependencies [ad4050b]
+  - @uppy/core@6.0.0
+
 ## 4.1.0
 
 ### Minor Changes

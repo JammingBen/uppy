@@ -1,5 +1,20 @@
 # @uppy/locales
 
+## 5.2.0
+
+### Minor Changes
+
+- 12de077: Remove @uppy/instagram references from all the packages
+
+### Patch Changes
+
+- c3c7cef: Bump shared runtime dependencies (preact, nanoid, lodash, classnames, shallow-equal, pretty-bytes, p-queue, tus-js-client, @transloadit/types @transloadit/prettier-bytes v1, is-mobile, exifr, compressorjs, rxjs, tslib). Also includes type-only fixes in `@uppy/companion`'s `jwt.ts` and `request.ts` to track `@types/jsonwebtoken` v9 and `@types/node`.
+- 32b9f06: @uppy/locales: update Norwegian Bokmål (nb_NO)
+- Updated dependencies [c3c7cef]
+- Updated dependencies [7ac2623]
+- Updated dependencies [ad4050b]
+  - @uppy/core@6.0.0
+
 ## 5.1.1
 
 ### Patch Changes

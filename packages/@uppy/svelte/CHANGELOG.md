@@ -1,5 +1,22 @@
 # @uppy/svelte
 
+## 6.0.0
+
+### Patch Changes
+
+- c3c7cef: Bump shared runtime dependencies (preact, nanoid, lodash, classnames, shallow-equal, pretty-bytes, p-queue, tus-js-client, @transloadit/types @transloadit/prettier-bytes v1, is-mobile, exifr, compressorjs, rxjs, tslib). Also includes type-only fixes in `@uppy/companion`'s `jwt.ts` and `request.ts` to track `@types/jsonwebtoken` v9 and `@types/node`.
+- Updated dependencies [c3c7cef]
+- Updated dependencies [b9253f7]
+- Updated dependencies [12de077]
+- Updated dependencies [7ac2623]
+- Updated dependencies [ad4050b]
+  - @uppy/screen-capture@6.0.0
+  - @uppy/components@2.0.0
+  - @uppy/status-bar@6.0.0
+  - @uppy/dashboard@6.0.0
+  - @uppy/webcam@6.0.0
+  - @uppy/core@6.0.0
+
 ## 5.2.0
 
 ### Minor Changes
